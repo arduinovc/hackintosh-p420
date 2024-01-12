@@ -1,0 +1,9 @@
+SystemProductName : iMac20,1    Intel Core i5-10500 @ 3.10 GHz
+SystemSerialNumber : C02H104QPN5T
+MLB : C02153401CDPHC1UE
+SystemUUID : 33457488-6A12-457C-B929-C32C482CBE17
+ROM : B9D88B97A33E
+ProcessorType : 1537
+
+Nom : iMac de Vincent
+OS : macOS 14.1.1 Sonoma
