@@ -11,12 +11,12 @@ MacOS version: __Sonoma 14.1.1__
 
 ## Hardware
 
-**Fujitsu Esprimo P420**
+**Desktop Fujitsu Esprimo P420**
 
 | Type	| Name                   |
 |:------|:-----------------------|
 | CPU	| Intel i5 4570 |
-| RAM	| 2xDDR3l 1600MHz - 8Gb |
+| RAM	| 2xDDR3 1600MHz - 8Gb |
 | GPU	| Intel HD Graphics 4600 |
 | Drive	| SATA SSD 256 Gb |
 | Sound card	| Realtek ALC671 |
