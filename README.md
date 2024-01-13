@@ -11,7 +11,7 @@ MacOS version: __Sonoma 14.1.1__
 
 ## Hardware
 
-**Desktop Fujitsu Esprimo P420**
+**Desktop Fujitsu Esprimo P420**  
 ![Fujitsu P420  ](/Assets/FujitsuP420.jpeg "Fujitsu P420")
 
 
